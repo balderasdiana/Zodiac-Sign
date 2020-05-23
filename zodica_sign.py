@@ -1,7 +1,7 @@
 #Diana Balderas
 #5/17/20
 #Zodiac Sign Calculator
-#Enter you birth month lowercase.
+#Instructions: Enter you birth month in lowercase letters.
 
 month = input('What month were you born?  ')
 month.lower()
